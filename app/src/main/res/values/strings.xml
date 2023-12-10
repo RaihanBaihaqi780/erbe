@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Erbe</string>
+    <string name="daftar">Daftar</string>
+    <string name="selamat_datang">Selamat datang !</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="ketik_namamu_di_sini">Ketik namamu di sini</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="ketik_salah_satu_di_sini">Ketik salah satu di sini</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="ketik_di_sini">Ketik di sini</string>
+</resources>
